@@ -1,4 +1,4 @@
-# cheetos
+# cheetos-breaker
 
 Javascript exploit to change router's configuration.
 
